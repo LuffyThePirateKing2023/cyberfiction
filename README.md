@@ -1,3 +1,5 @@
+![Readme Image](readmeImg.png)
+
 # CYBER-Fiction
 
 This is a project titled CYBER-Fiction.
