@@ -1,11 +1,10 @@
-![Readme Image](readmeImg.png)
-
 # CYBER-Fiction
-
 This is a project titled CYBER-Fiction.
 
-## Description
+## IMG
+![Readme Image](readmeImg.png)
 
+## Description
 CYBER-Fiction is a fictional project that aims to create a decentralized community for creating new values and profits through play in the virtual world, also known as the metaverse.
 
 ## Table of Contents
