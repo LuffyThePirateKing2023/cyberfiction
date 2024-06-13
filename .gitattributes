@@ -1,0 +1,7 @@
+*.js linguist-language=JavaScript
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.jsx linguist-language=JavaScript
+vite.config.js linguist-language=JavaScript
+postcss.config.js linguist-language=JavaScript
+tailwind.config.js linguist-language=JavaScript
